@@ -1,0 +1,15 @@
+{
+  "name": "latex-watcher-boilerplate",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "latex-watcher -t main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "latex-watcher": "0.0.3"
+  }
+}
